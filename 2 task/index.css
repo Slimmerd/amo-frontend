@@ -45,6 +45,9 @@ body {
     background: #833AB4;
     opacity: 0.5;
     filter: blur(196px);
+
+    /* Safari fix*/
+    transform: translate3d(0, 0, 0);
 }
 
 .header__ball--purple {
@@ -167,6 +170,9 @@ body {
     background: #961A1A;
     opacity: 0.5;
     filter: blur(196px);
+
+    /* Safari fix*/
+    transform: translate3d(0, 0, 0);
 
 }
 
