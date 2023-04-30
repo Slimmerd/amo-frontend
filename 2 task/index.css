@@ -387,7 +387,7 @@ body {
     /* MAIN */
     .main {
         margin: 0 14px;
-        background: url("noise.png");
+        background: url("./assets/noise.png");
         mix-blend-mode: exclusion;
     }
 
